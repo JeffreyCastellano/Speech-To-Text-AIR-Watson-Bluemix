@@ -18,5 +18,5 @@ Notes
 
 Confidence: In these demos you can set the minimum confidence so as not to allow words that are not likely to be correct to show.
 
-Flash: I've started to put together a version of this that runs with the Flash plugin but honestly, do we need it? The hooks are in place for using this with a php proxy but you're better off writing what you need in javascript. It's 2016, AS3 belongs on desktop/mobile, not the web. :)
+Flash: I've started to put together a version of this that runs with the Flash plugin but honestly it's not really needed.
 
