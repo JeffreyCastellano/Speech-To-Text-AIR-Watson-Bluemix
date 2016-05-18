@@ -6,7 +6,7 @@ This is a simple example of how to use Speech To Text with Adobe AIR. There are 
 Streaming Version
 -----
 
-In this version (AIR Watson STT Stream) the as3 microphone is activated and on sampleevents it sends chunks of 16 bit encoded pcm data to the service via websocket. This method is preferred as it gives immediate JSON feedback and gives users the most modern feel. This version includes a version much like https://speech-to-text-demo.mybluemix.net/
+In this version (AIR Watson STT Stream) the microphone is activated and on sample events it sends chunks of 16 bit encoded pcm data to the service via websocket. This method is preferred as it gives immediate JSON feedback and gives users the most modern feel. This version includes a version much like https://speech-to-text-demo.mybluemix.net/
 
 REST Version
 -----
