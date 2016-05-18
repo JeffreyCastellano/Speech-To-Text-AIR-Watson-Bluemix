@@ -11,7 +11,7 @@ In this version (AIR Watson STT Stream) the as3 microphone is activated and on s
 REST Version
 -----
 
-In this version (AIR Watson STT REST) the as3 microphone is activated and when complete is encodes the data into a audio/wav format and then uploads to the service for analysis sending back JSON of the audio transcribed.
+In this version (AIR Watson STT REST) the microphone is activated and when complete is encodes the data into a audio/wav format and then uploads to the service for analysis sending back JSON of the audio transcribed.
 
 Notes
 -----
