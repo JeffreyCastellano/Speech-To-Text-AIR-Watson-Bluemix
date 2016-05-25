@@ -1,7 +1,7 @@
 Watson Speech To Text for Adobe AIR
 =======================
 
-This is a simple example of how to use Speech To Text with Adobe AIR. There are two examples for each of the two kinds of STT Watson / Bluemix offers. Streaming continuous speech to text and a REST service. This works well on mobile iOS, Android, and Desktop Windows and Mac.
+Adobe AIR is a handy tool for prototyping. This is a simple example of how to use Speech To Text with Adobe AIR. There are two examples for each of the two kinds of STT Watson / Bluemix offers. Streaming continuous speech to text and a REST service. This works well on mobile iOS, Android, and Desktop Windows and Mac.
 
 Streaming Version
 -----
